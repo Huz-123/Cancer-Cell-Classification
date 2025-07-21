@@ -26,12 +26,6 @@ Welcome to the Cancer Cell Classification repository! This project aims to class
 
 ---
 
-## 🛠️ Setup Instructions
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Huz-123/Cancer-Cell-Classification.git
-   cd Cancer-Cell-Classification]
 - **Main Features**:
   - Data preprocessing and augmentation
   - Multiple ML/DL models for classification
